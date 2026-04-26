@@ -1,0 +1,10 @@
+_source_obsidian/
+.npm-cache/
+_publish/
+_push/
+_push_git/
+chunks/
+*.rbxl.lock
+*.rbxlx.lock
+.vscode/
+.DS_Store
